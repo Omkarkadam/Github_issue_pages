@@ -13,7 +13,7 @@ styled-components
 prop-types
 Set Up :
 
-1. git clone https://github.com/Omkarkadam/github-issues-page.git
+1. git clone https://github.com/Omkarkadam/github_issues_page.git
 
 2. yarn install 
 
