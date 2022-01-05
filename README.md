@@ -13,7 +13,7 @@ styled-components
 prop-types
 Set Up :
 
-1. git clone https://github.com/ankitious/github-issues-page.git
+1. git clone https://github.com/Omkarkadam/github-issues-page.git
 
 2. yarn install 
 
@@ -26,4 +26,4 @@ By default, it will show facebook's react repository's issues page.
 
 To view some other repositories issue page give query parameter's as owner & repo.
 
----> https://git-issues.netlify.com/?owner=vuejs&repo=vue
+
